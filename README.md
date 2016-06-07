@@ -8,7 +8,9 @@ The code provided here was written by Manuel Spitschan. The scientific work was 
 
 ##### Citation
 
-If you use this code or data set, please cite it as Spitschan, Aguirre, Brainard & Sweeney, *Variation of outdoor illumination as a function of solar elevation and light pollution*.
+If you use this code or data set, please cite it as 
+
+Spitschan M, Aguirre GK, Brainard DH %amp; Sweeney AM (2016). Variation of outdoor illumination as a function of solar elevation and light pollution. *Scientific Reports 6*, 26756. [doi:10.1038/srep26756](https://dx.doi.org/doi:10.1038/srep26756).
 
 ##### Clone the repository
 

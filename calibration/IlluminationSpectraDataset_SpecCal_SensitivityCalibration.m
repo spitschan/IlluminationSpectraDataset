@@ -173,9 +173,9 @@ weighting_sl3(theInvalidWls) = NaN;
 weighting_slide(theInvalidWls) = NaN;
 
 subplot(5, 1, 2);
-plot(cal.wls, abs(corr_window(spd_USB2000_sl3, 20)), 'Color', RGB_sl1, 'LineWidth', 1); hold on
-plot(cal.wls, abs(corr_window(spd_USB2000_slide, 20)), 'Color', RGB_sl3, 'LineWidth', 1);
-plot(cal.wls, abs(corr_window(spd_USB2000_sl1, 20)), 'Color', RGB_slide, 'LineWidth', 1);
+plot(cal.wls, abs(corr_window(spd_USB2000_sl3, 20)), 'Color', RGB_sl3, 'LineWidth', 1); hold on
+plot(cal.wls, abs(corr_window(spd_USB2000_slide, 20)), 'Color', RGB_slide, 'LineWidth', 1);
+plot(cal.wls, abs(corr_window(spd_USB2000_sl1, 20)), 'Color', RGB_sl1, 'LineWidth', 1);
 
 pbaspect([1 1 1]);
 box off;

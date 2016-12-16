@@ -111,4 +111,4 @@ In `IlluminationSpectraDataset/analysis/data/`, we provide the following basis f
 
 ##### Contact
 
-For any questions, bug reports, and comments please contact [Manuel Spitschan (mspits@sas.upenn.edu)](mailto:mspits@sas.upenn.edu).
+For any questions, bug reports, and comments please contact [Manuel Spitschan (spitschan@stanford.edu)](mailto:spitschan@stanford.edu).
